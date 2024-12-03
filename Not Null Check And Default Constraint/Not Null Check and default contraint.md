@@ -1,0 +1,1 @@
+Here we are learning about not null, check and default constraint in the SQL where not null specifies that column should not be null ,Check limit the value of to a condition and default constraint puts the default values to the data type
