@@ -1,0 +1,1 @@
+Here we understood the concept of the foreign key.
