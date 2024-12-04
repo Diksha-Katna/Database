@@ -1,0 +1,1 @@
+Here we learnt about different functions like Max, Min, Avg, Sum and Count
