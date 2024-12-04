@@ -1,1 +1,0 @@
-Here! We learnt about Group By and Having clause 
