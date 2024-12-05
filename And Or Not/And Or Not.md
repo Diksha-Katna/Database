@@ -1,0 +1,1 @@
+Here! We learnt about And Or Not operators in the SQL
