@@ -1,1 +1,0 @@
-There can be only one primary key and multiple unique keys in the table 
