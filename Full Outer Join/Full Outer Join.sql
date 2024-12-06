@@ -33,8 +33,7 @@ Insert into Employee values(6,'Sean','90000',24)
 
 
  Select Employee.emp_no, Employee.emp_name,Department.Department_id,Department.Department_name
-From Employee
-Full Outer Join  Department On Employee.emp_no=Department.Department_id
+From Employee Inner Join  Department On Employee.emp_no=Department.Department_id
 
 
 
